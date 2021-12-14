@@ -1,11 +1,11 @@
 body
 {
-	background:url("background web 89.jpeg");
+	background:url("background.jpg");
 }
 
 	.login_div1 , .login_div2
 	{
-		background: rgb(247, 93, 93);
+		background: rgb(30, 107, 121);
 		padding: 10px;
 		float: none;
 		border-radius: 15px;
